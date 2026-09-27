@@ -15,28 +15,19 @@ The project was created as a Python practice project to work with APIs, data pro
 ## 📂 **Project Structure**:
 
 weather-project/
-
 ├── api.py
-
 ├── data_formater.py
-
 ├── main.py
-
 ├── utils.py
-
 └── view.py
 
 
 ## **Files**:
 
-main.py — application entry point
-
-api.py — interaction with the weather API
-
-data_formater.py — processing and formatting weather data
-
+`main.py` — application entry point
+**api.py** — interaction with the weather API
+*data_formater.py* — processing and formatting weather data
 utils.py — utility functions
-
 view.py — displaying information to the user
 
 
