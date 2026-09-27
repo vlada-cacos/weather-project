@@ -1,11 +1,4 @@
-<h1 align="center">
-  🌤️ WEATHER PROJECT
-</h1>
-
-<h3 align="center">
-  A simple weather application built with Python
-</h3>
-
+<h1 align="center">🌤️ WEATHER PROJECT</h1> <h3 align="center">A simple weather application built with Python</h3>
 ### 📌 
 
 > This project retrieves weather data using an API, processes the received information, and displays it in a user-friendly format. The project was created as a Python practice project to work with APIs, data processing, and application structure.
