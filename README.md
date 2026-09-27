@@ -15,7 +15,7 @@ Weather API,
 
 JSON
 
-📂 **Project Structure**:
+## 📂 **Project Structure**:
 
 weather-project/
 
@@ -30,7 +30,7 @@ weather-project/
 └── view.py
 
 
-**Files**:
+## **Files**:
 
 main.py — application entry point
 
@@ -43,7 +43,7 @@ utils.py — utility functions
 view.py — displaying information to the user
 
 
-✨ **Features**:
+## ✨ **Features**:
 
 - 🌡️ Getting weather data from an API
   
