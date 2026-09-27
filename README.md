@@ -2,12 +2,10 @@
 
 <p align="center">
   A simple weather application built with Python
+  <br>
+  Get current weather information quickly and easily.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Weather%20API-4FC3F7?style=for-the-badge&logo=cloudflare&logoColor=white">
-</p>
 
 ### A simple weather application built with Python
 
