@@ -1,13 +1,10 @@
-<h1 align="center">🌤️ Weather Project</h1>
+<h1 align="center">
+  🌤️ WEATHER PROJECT
+</h1>
 
-<p align="center">
+<h3 align="center">
   A simple weather application built with Python
-  <br>
-  Get current weather information quickly and easily.
-</p>
-
-
-### A simple weather application built with Python
+</h3>
 
 ### 📌 
 
