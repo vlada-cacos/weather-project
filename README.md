@@ -1,5 +1,5 @@
 # 🌤️ **Weather Project** 🌤️
-> (A simple weather application built with Python)
+### (A simple weather application built with Python)
 
 📌 :
 
