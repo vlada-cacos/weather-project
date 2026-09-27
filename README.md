@@ -1,4 +1,4 @@
-# 🌤️ **W E A T H E R   P R O J E C T** 🌤️
+# 🌤️ **W E A T H E R        P R O J E C T** 🌤️
 ### A simple weather application built with Python
 
 ### 📌 
