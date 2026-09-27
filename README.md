@@ -1,7 +1,7 @@
 # 🌤️ **Weather Project** 🌤️
-### (A simple weather application built with Python)
+### A simple weather application built with Python
 
-📌 :
+#### 📌 :
 
 This project retrieves weather data using an API, processes the received information, and displays it in a user-friendly format
 
