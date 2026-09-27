@@ -1,4 +1,4 @@
-# 🌤️ **𝓦𝓮𝓪𝓽𝓱𝓮𝓻 𝓟𝓻𝓸𝓳𝓮𝓬𝓽** 🌤️
+# 🌤️ **W E A T H E R   P R O J E C T** 🌤️
 ### A simple weather application built with Python
 
 ### 📌 
@@ -28,15 +28,15 @@ weather-project/
 
 ## **Files**:
 
-**`main.py`** — application entry point
+`main.py` — application entry point
 
 `api.py` — interaction with the weather API
 
-*data_formater.py* — processing and formatting weather data
+`data_formater.py` — processing and formatting weather data
 
-utils.py — utility functions
+`utils.py` — utility functions
 
-view.py — displaying information to the user
+`view.py` — displaying information to the user
 
 
 
