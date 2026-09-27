@@ -1,19 +1,16 @@
 # 🌤️ **Weather Project** 🌤️
 ### A simple weather application built with Python
 
-#### 📌 :
+### 📌 
 
-This project retrieves weather data using an API, processes the received information, and displays it in a user-friendly format
+This project retrieves weather data using an API, processes the received information, and displays it in a user-friendly format.
+The project was created as a Python practice project to work with APIs, data processing, and application structure.
 
-The project was created as a Python practice project to work with APIs, data processing, and application structure
+### 🛠️ 
 
-🛠️ :
-
-Python,
-
-Weather API,
-
-JSON
+- Python
+- Weather API
+- JSON
 
 ## 📂 **Project Structure**:
 
