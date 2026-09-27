@@ -1,10 +1,12 @@
 <h1 align="center">
-  🌤️ WEATHER PROJECT
+  🌤️ 𝓦𝓮𝓪𝓽𝓱𝓮𝓻 𝓟𝓻𝓸𝓳𝓮𝓬𝓽  🌤️
 </h1>
 
-<h3 align="center">
-  A simple weather application built with Python
-</h3>
+<p align="center">
+  <b>A simple weather application built with Python</b>
+</p>
+
+
 
 ### 📌 
 
